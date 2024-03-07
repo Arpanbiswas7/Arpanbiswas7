@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpanbiswas7
 - 👀 I’m interested in ...learning coding, gaming and Anime
-- 🌱 I’m currently learning ...JAVA
+- 🌱 I’m currently learning ...JAVA And JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
