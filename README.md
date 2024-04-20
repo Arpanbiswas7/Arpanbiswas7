@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hlwarpanbiswas9@gmail.com**
 
-- ⚡ Fun fact **I like to learn coding and ANIME :)**
+- ⚡ Fun fact **I talk a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
