@@ -8,7 +8,7 @@
 
 - 🔭 computer science student!!
 
-- 🌱 I’m currently learning **Java, JS, CSS**
+- 🌱 I’m currently learning **Java, JS, kotlin**
 
 - 💬 Ask me about **Web developing And ANIME**
 
